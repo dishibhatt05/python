@@ -1,5 +1,5 @@
 commments in python 
-  use ctrl + \mto comment and un comment the code directly
+  use ctrl + \m to comment and un comment the code directly
 escape sequence as normal text
 print("line a \n line b")
 \n work as new line
